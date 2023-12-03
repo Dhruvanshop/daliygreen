@@ -36,7 +36,7 @@ import watchSlide from "../Images/watch-07.png";
 export const SliderData = [
   {
       id: 1,
-      title: "100% Off For Your First Shopping",
+      title: "50% Off For Your First Shopping",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convallis.",
       cover: watch02,
   },
@@ -79,12 +79,12 @@ export const serviceData = [
     subtitle: "Lorem ipsum dolor sit amet.",
     bg: "#e2f2b2",
   },
-  {
-    icon: <ion-icon name="headset"></ion-icon>,
-    title: " Back Guarantee",
-    subtitle: "Lorem ipsum dolor sit amet.",
-    bg: "#d6e5fb",
-  },
+  // {
+  //   icon: <ion-icon name="headset"></ion-icon>,
+  //   title: " Back Guarantee",
+  //   subtitle: "Lorem ipsum dolor sit amet.",
+  //   bg: "#d6e5fb",
+  // },
 ];
 
 export const discoutProducts = [
@@ -797,7 +797,7 @@ export const products = [
     category: "Tawa",
     price: 139,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Clay tawa for multipurpose use",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
     reviews: [
